@@ -1,4 +1,6 @@
-### Hi there 👋
+### About me
+
+I'm a software engineer from Russia. Most of the times I write in C++, Typescript, OCaml, and C.
 
 <!--
 **binkiyam/binkiyam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
